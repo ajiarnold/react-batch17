@@ -7,7 +7,7 @@ import CounterHook from './components/CounterHook';
 import ParentName from './parentChild/ParentName';
 import ParentComponent from './parentChild/ParentComponent';
 import EmployeeList from './List/EmployeeList';
-import ChartItems from './List/ChartItem';
+import ChartItems from './List/ChartItems';
 import ChartItem from './form/ChartItem';
 
 function App() {
